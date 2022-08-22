@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Xinya Zhang 张昕亚
+I'm Xin-Ya Zhang 张昕亚
 
 
 <!--
