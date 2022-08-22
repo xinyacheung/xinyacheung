@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/xinyacheung)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/xin-ya-zhang-6638171b5/)
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7-email-blue)(mailto:xinyazhang@tongji.edu.cn)
+(https://img.shields.io/badge/%F0%9F%93%A7-email-blue)(xinyazhang@tongji.edu.cn)
 
 
 
