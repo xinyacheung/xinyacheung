@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ⚡️ I like taking great videos while travelling🗺 ⛷ 🏊 🎼 🏖and writing peoms.
+- ⚡️ I like taking great videos while travelling⛷ 🏊 🎼 🏖and writing peoms.
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](xx)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](xx)
 -->
@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 - 🎓 I’m currently a PhD candidate of theoretical physics
 - 🌱 I’m currently working on neuroscience and brain cognition
 - 👯 I’m looking to collaborate on Prof. Gang Yan and Prof. Bradley C. Love
-- ⚡️ I like taking great videos while travelling🗺 ⛷ 🏊 🎼 🏖, traveling ✈️, cooking and enjoying delicious food and writing peoms.
+- ⚡️ I like taking great videos while travelling⛷ 🏊 🎼 🏖 ✈️, cooking and enjoying delicious food and writing peoms.
 - 💬 If you have any question, just ask me.
 
 ### Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/xinyacheung)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/xin-ya-zhang-6638171b5/)
-📫 mailto:xinyazhang@tongji.edu.cn
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7-email-blue)(mailto:xinyazhang@tongji.edu.cn)
 
 
 
