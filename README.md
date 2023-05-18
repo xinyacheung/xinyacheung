@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Get in touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/xinyacheung)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=Twitter)][(https://twitter.com/xinyazhang_)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/xin-ya-zhang-6638171b5/)
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7-email-blue)](mailto:xinyazhang@tongji.edu.cn)
 
