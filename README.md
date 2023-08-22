@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🎓 I’m currently a PhD candidate of theoretical physics.
 - 🌱 I’m currently working on complex networks and brain cognition.
 - 👯 I’m currently working with Prof. Gang Yan (Tongji University) and Prof. Bradley C. Love (UCL, University College London).
-- ⚡️ I like taking great videos while travelling⛷ 🏊 🎼 🏖 ✈️, cooking and enjoying delicious food and writing peoms.
+- ⚡️ I like taking great videos while travelling🏂🏻 🏊 🎼 🏖 ✈️, cooking and enjoying delicious food and writing peoms.
 - 💬 If you have any question, just ask me.
 
 ### Get in touch
