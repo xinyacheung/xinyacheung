@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](xx)
 -->
 
-- 🎓 I’m currently a PhD candidate of theoretical physics.
-- 🌱 I’m currently working on complex networks and neuroscience.
+- 🎓 I’m currently a PhD of theoretical physics.
+- 🌱 I’m currently working on complex networks, AI, and neuroscience.
 - ⚡️ I like taking great videos while travelling🏂🏻 🏊 🎼 🏖 ✈️, enjoying delicious food and writing peoms.
 - 💬 If you have any question, just ask me.
 
